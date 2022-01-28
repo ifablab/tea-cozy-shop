@@ -8,4 +8,4 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 The images and design spec you need to complete the project are listed below.
 
-![this is my result’s page](<img src="/ressources/images/myTea_cozy_page.png">)
+![this is my result’s page](<img src="TEA-COZY-SHOP/ressources/images/myTea_cozy_page.png">)
